@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Nathan Fox</title>
+    <link>https://nathan-fox-research.github.io/talk/</link>
+      <atom:link href="https://nathan-fox-research.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Dec 2020 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nathan-fox-research.github.io/images/icon_hu3651c78b9a136acb1eee1bd63068d8c6_44512_512x512_fill_lanczos_center_2.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://nathan-fox-research.github.io/talk/</link>
+    </image>
+    
+    <item>
+      <title>“photosearcher” package in R An accessible and reproducible method for harvesting large datasets from Flickr</title>
+      <link>https://nathan-fox-research.github.io/talk/bes_citizen_webinar/</link>
+      <pubDate>Wed, 09 Dec 2020 13:00:00 +0000</pubDate>
+      <guid>https://nathan-fox-research.github.io/talk/bes_citizen_webinar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

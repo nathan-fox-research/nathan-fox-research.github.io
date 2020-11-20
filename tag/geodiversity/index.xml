@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>geodiversity | Nathan Fox</title>
+    <link>https://nathan-fox-research.github.io/tag/geodiversity/</link>
+      <atom:link href="https://nathan-fox-research.github.io/tag/geodiversity/index.xml" rel="self" type="application/rss+xml" />
+    <description>geodiversity</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nathan-fox-research.github.io/images/icon_hu3651c78b9a136acb1eee1bd63068d8c6_44512_512x512_fill_lanczos_center_2.png</url>
+      <title>geodiversity</title>
+      <link>https://nathan-fox-research.github.io/tag/geodiversity/</link>
+    </image>
+    
+    <item>
+      <title>Incorporating geodiversity in ecosystem service decisions</title>
+      <link>https://nathan-fox-research.github.io/publication/2020_esp/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://nathan-fox-research.github.io/publication/2020_esp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
